@@ -1,0 +1,6 @@
+{
+  "name": "AquaRealm Premium Aquatics",
+  "description": "A luxury aquarium shop featuring interactive live aquarium background in 40% ambient light, marine & freshwater species, custom aquascapes, and mobile-optimized shopping.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
